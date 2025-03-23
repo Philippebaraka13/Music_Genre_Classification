@@ -1,4 +1,4 @@
-﻿# 🎵 Music Genre Classification Using CNN - Assignment 2
+﻿# 🎵 Music Genre Classification Using CNN 
 
 ![Screenshot 2025-03-22 204926](https://github.com/user-attachments/assets/28ae6a7b-12ee-48ee-b213-cfdb8d2277cc)
 
@@ -86,8 +86,6 @@ python Assignment2_Philippe.py
 ## 👨‍💻 Author
 
 **Philippe Baraka**  
-North Dakota State University  
-📧 [Kamokamophilippe13@gmail.com](mailto:Kamokamophilippe13@gmail.com)
 
 ---
 
