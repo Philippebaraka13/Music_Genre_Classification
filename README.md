@@ -91,7 +91,3 @@ North Dakota State University
 
 ---
 
-## 📄 License
-
-This project is intended for educational purposes only. Dataset and code should not be used for commercial applications.
-
